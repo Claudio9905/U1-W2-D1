@@ -63,7 +63,9 @@ let sottrazione = 4 - x;
 let name1 = "john";
 let name2 = "John";
 
-name1 !== name2;
+const result = name1 !== name2;
+
+//Extra
 
 name1 = name1.toLowerCase;
 name2 = name2.toLowerCase;
